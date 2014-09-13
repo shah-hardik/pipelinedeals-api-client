@@ -45,5 +45,4 @@ class apiPipe extends apiCore {
     }
 
 }
-
 ?>
